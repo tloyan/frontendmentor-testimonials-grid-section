@@ -5,7 +5,7 @@ import clsx from "clsx";
 export default function Home() {
   return (
     <main className="flex min-h-full flex-col items-center justify-center bg-neutral-2 p-6 py-[71px]">
-      <div className="grid min-h-full max-w-[1110px] grid-cols-[1fr] gap-x-[30px] gap-y-6 lg:grid-cols-4 lg:grid-rows-[282px_266px]">
+      <div className="grid min-h-full max-w-[1110px] grid-cols-[1fr] gap-x-[30px] gap-y-6 lg:grid-cols-4 lg:grid-rows-[49.5%_46.5%]">
         <Card
           name="Daniel Clifford"
           image="/image-daniel.jpg"
